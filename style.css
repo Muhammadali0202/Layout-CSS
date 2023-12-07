@@ -168,7 +168,7 @@ li {
 } */
 
 /* 960 GRID SYSTEM */
-* {
+/* * {
   font-family: Arial, Verdana, sans-serif;
   color: #665544;
   text-align: center;
@@ -188,4 +188,10 @@ li {
 li {
   display: inline;
   padding: 5px;
-}
+} */
+
+/* MULTIPLE STYLESHEET IN CSS */
+/* @import url(./test-stylesheet.css);
+#heading1 {
+  color: red;
+} */
